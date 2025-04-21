@@ -8,7 +8,7 @@
 
 Este MOC (Map of Content) organiza as notas do Tratado de Yôga do Mestre De Rose.
 
-## 📚 Seções Principais
+## 📚 Seções Principais (v1)
 
 - [[10 - PERMANENT/Zettels/Yoga/1--definicoes\|1 – Definições]]
 - [[10 - PERMANENT/Zettels/Yoga/2--sem-reeducacao-comportamental-nao-funciona\|2 – Sem reeducação comportamental, não funciona]]
