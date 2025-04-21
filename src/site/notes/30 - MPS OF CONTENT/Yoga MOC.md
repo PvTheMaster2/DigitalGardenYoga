@@ -4,9 +4,9 @@
 
 
 
-# 🧘 Mapa de Conteúdo: Trato de Yôga
+# 🧘 Mapa de Conteúdo: Tratado de Yôga
 
-Este MOC (Map of Content) organiza as notas do Trato de Yôga do Mestre De Rose.
+Este MOC (Map of Content) organiza as notas do Tratado de Yôga do Mestre De Rose.
 
 ## 📚 Seções Principais
 
