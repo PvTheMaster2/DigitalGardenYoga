@@ -1,17 +1,8 @@
 ---
-dg-publish: true
-id: 20250418T020213
-title: 44.4 – Direção em que os Chakras Devem Girar
-tags:
-  - source/trato-yoga
-  - type/concept
-zettel-type: literature
-source: Trato de Yôga do Mestre De Rose
-created: 2025-04-18
-parent: Chakras
-updated: 2025-04-18T02:33
+{"dg-publish":true,"permalink":"/10 - PERMANENT/Zettels/Yoga/44-4--direcao-em-que-os-chakras-devem-girar/","title":"44.4 – Direção em que os Chakras Devem Girar","tags":["source/trato-yoga","type/concept"],"noteIcon":""}
 ---
 
+![img_p5_pos1_650x111_498b74.jpeg](/img/user/images/img_p5_pos1_650x111_498b74.jpeg)
 # 44.4 – Direção em que os Chakras Devem Girar
 
 Os chakras podem girar para a direita (movimento dextrógiro ou horário, denominado *dakshinavārtêna*); ou para a esquerda (movimento sinistrógiro ou anti-horário, denominado *vamavārtêna*). As pessoas que nascem com o movimento dos chakras para a direita, ao longo da vida, podem inverter o sentido dos lótus, fazendo-os girar para a esquerda ao dedicar-se a determinadas práticas espirituais, tais como as de mediunidade; ou, também, podem corrigir o sentido, fazendo-o voltar ao dextrógiro com a prática de um Yôga legítimo.
