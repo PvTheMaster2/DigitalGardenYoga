@@ -1,18 +1,8 @@
 ---
-dg-publish: true
-id: 20250418T020213
-title: 44.5 – Qual dos Dois Sentidos é o Melhor
-tags:
-  - source/trato-yoga
-  - type/concept
-  - theme/yoga/energy/chakra
-zettel-type: literature
-source: Trato de Yôga do Mestre De Rose
-created: 2025-04-18
-parent: Chakras
-updated: 2025-05-02T10:20
+{"dg-publish":true,"permalink":"/10 - PERMANENT/Zettels/Yoga/44-5--qual-dos-dois-sentidos-e-o-melhor/","title":"44.5 – Qual dos Dois Sentidos é o Melhor","tags":["source/trato-yoga","type/concept","theme/yoga/energy/chakra"],"noteIcon":""}
 ---
 
+![img_p5_pos1_650x111_498b74.jpeg](/img/user/images/img_p5_pos1_650x111_498b74.jpeg)
 # 44.5 – Qual dos Dois Sentidos é o Melhor
 
 Depende do que se deseja. Em princípio, nenhum dos dois é superior ao outro. No Yôga, o ideal, aliás, o único possível, é o sentido horário. Caso se pratique desenvolvimento mediúnico, o sentido é anti-horário.
