@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10 - PERMANENT/Zettels/Yoga/7-1-8--swasthya-yoga-o-yoga-antigo-de-raizes-pre-classicas/","title":"7.1.8 – SwáSthya Yôga, o Yôga Antigo, de raízes pré-clássicas","tags":["source/trato-yoga","type/concept","theme/yoga"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/10 - PERMANENT/Zettels/Yoga/7-1-8--swasthya-yoga-o-yoga-antigo-de-raizes-pre-classicas/","title":"7.1.8 – SwáSthya Yôga, o Yôga Antigo, de raízes pré-clássicas","tags":["source/trato-yoga","type/concept","theme/yoga","type/lineage","theme/yoga/history"],"noteIcon":""}
 ---
 
 

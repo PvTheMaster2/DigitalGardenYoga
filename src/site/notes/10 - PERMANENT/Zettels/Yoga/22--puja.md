@@ -1,15 +1,7 @@
 ---
-dg-publish: true
-id: 20250418T020213
-title: 22 – Pújá
-tags:
-  - source/trato-yoga
-  - type/concept
-zettel-type: literature
-source: Trato de Yôga do Mestre De Rose
-created: 2025-04-18
-updated: 2025-04-18T03:41
+{"dg-publish":true,"permalink":"/10 - PERMANENT/Zettels/Yoga/22--puja/","title":"22 – Pújá","tags":["source/trato-yoga","type/concept"],"noteIcon":""}
 ---
+
 
 # 22 – Pújá
 

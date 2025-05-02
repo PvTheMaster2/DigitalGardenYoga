@@ -2,18 +2,24 @@
 dg-publish: true
 id: 20250418T020213
 title: 54 – A Reencarnação
+aliases:
+  - Reencarnação
+  - Samsara
 tags:
   - source/trato-yoga
   - type/concept
+  - type/philosophy
+  - theme/yoga
+  - theme/yoga/philosophy
 zettel-type: literature
 source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
-updated: 2025-04-18T03:41
+updated: 2025-05-02T11:00
 ---
 
 # 54 – A Reencarnação
 
-No plano mental, nossa permanência é pequena, até porque nossa espécie não está plenamente desenvolvida mentalmente. Além do mais, a personalidade só dispõe de quatro subplanos no plano mental. Os três subplanos seguintes pertencem à individualidade. Consumindo toda a matéria mental concreta de que é formado, esse veículo se dissolve. Com isso, acabou o quaternário inferior, acabou a personalidade. Restou a Tríade Superior, a individualidade. Essa, então, se ainda não evoluiu o suficiente para libertar-se da roda do *samsāra* (as reencarnações), precisará construir outra personalidade para prosseguir no seu processo de evolução. E chamamos *psiquismo* a fusão do emocional com o mental inferior. *Espírito* é a tríade superior.
+No plano mental, nossa permanência é pequena, até porque nossa espécie não está plenamente desenvolvida mentalmente. Além do mais, a [[personalidade\|personalidade]] só dispõe de quatro subplanos no plano mental. Os três subplanos seguintes pertencem à [[individualidade\|individualidade]]. Consumindo toda a matéria mental concreta de que é formado, esse veículo se dissolve. Com isso, acabou o quaternário inferior, acabou a [[personalidade\|personalidade]]. Restou a Tríade Superior, a [[individualidade\|individualidade]]. Essa, então, se ainda não evoluiu o suficiente para libertar-se da roda do [[Samsara\|Samsara]] (*samsāra* - as reencarnações), precisará construir outra [[personalidade\|personalidade]] para prosseguir no seu processo de evolução. E chamamos [[psiquismo\|psiquismo]] a fusão do emocional com o mental inferior. [[Espírito\|Espírito]] é a tríade superior.
 
 ## 🔗 Links e Referências
 
@@ -43,3 +49,6 @@ No plano mental, nossa permanência é pequena, até porque nossa espécie não 
 - [[10 - PERMANENT/Zettels/Yoga/52-a-diferenca-entre-personalidade-e-individualidade.md\|52 – A Diferença entre Personalidade e Individualidade]]
 - [[10 - PERMANENT/Zettels/Yoga/521-os-sete-subplanos.md\|52.1 – Os Sete Subplanos]]
 - [[10 - PERMANENT/Zettels/Yoga/56-a-diferenca-entre-personalidade-e-individualidade.md\|56 – A Diferença entre Personalidade e Individualidade]]
+
+---
+[[30 - MPS OF CONTENT/Yoga MOC\|Yoga MOC]]

@@ -1,23 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/10 - PERMANENT/Zettels/Yoga/4--cronologia-historica/","title":"4 – Cronologia Histórica","tags":["source/trato-yoga","type/concept"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/10 - PERMANENT/Zettels/Yoga/4--cronologia-historica/","title":"4 – Cronologia Histórica","tags":["source/trato-yoga","type/concept","type/history","theme/yoga","theme/yoga/history"],"noteIcon":""}
 ---
 
 
 # 4 – Cronologia Histórica
 
-o Yôga Antigo e o Yôga Moderno. O primeiro ocupa um espaço de 4000 anos. O segundo ocupa apenas os últimos mil anos. Portanto, a primeira divisão deveria ser quatro vezes maior do que a segunda.
+o [[Yôga\|Yôga]] Antigo e o [[Yôga\|Yôga]] Moderno. O primeiro ocupa um espaço de 4000 anos. O segundo ocupa apenas os últimos mil anos. Portanto, a primeira divisão deveria ser quatro vezes maior do que a segunda.
 
-Yôga Antigo é de tendência predominantemente Sámkhya, enquanto o Yôga Moderno é de tendência preponderantemente Vêdánta.
+[[Yôga\|Yôga]] Antigo é de tendência predominantemente [[Sámkhya\|Sámkhya]], enquanto o [[Yôga\|Yôga]] Moderno é de tendência preponderantemente [[Vêdánta\|Vêdánta]].
 
-O Sámkhya [^1], é naturalista (não-espiritualista) e interpreta os fenômenos desencadeados pelo Yôga como ocorrências que obedecem às leis da Natureza e não são devidos a nenhuma graça divina nem mérito espiritual do praticante. Naturalismo é a filosofia que atribui causas naturais a todos os efeitos.
+O [[Sámkhya\|Sámkhya]] [^1], é naturalista (não-espiritualista) e interpreta os fenômenos desencadeados pelo [[Yôga\|Yôga]] como ocorrências que obedecem às leis da Natureza e não são devidos a nenhuma graça divina nem mérito espiritual do praticante. Naturalismo é a filosofia que atribui causas naturais a todos os efeitos.
 
-O Vêdánta, é espiritualista, não raro, místico, quase religioso, e justifica os fenômenos produzidos pela prática do Yôga a partir da graça divina e do mérito espiritual do praticante. Espiritualismo é a filosofia que atribui causas sobrenaturais a todos os efeitos.
+O [[Vêdánta\|Vêdánta]], é espiritualista, não raro, místico, quase religioso, e justifica os fenômenos produzidos pela prática do [[Yôga\|Yôga]] a partir da graça divina e do mérito espiritual do praticante. Espiritualismo é a filosofia que atribui causas sobrenaturais a todos os efeitos.
 
-O Yôga Antigo é dividido em Pré-Clássico e Clássico. Mesmo o Sámkhya que fundamenta esses dois períodos é diferente. O Yôga Pré-Clássico é fundamentado pelo Niríshwara Sámkhya, ou “Sámkhya sem-Senhor”, e o Clássico, pelo Sêshwara Sámkhya, ou “Sámkhya com-Senhor”. Este último é discretamente teísta, mas ainda não é espiritualista nem místico. Apenas filosófico.
+O [[Yôga\|Yôga]] Antigo é dividido em Pré-Clássico e Clássico. Mesmo o [[Sámkhya\|Sámkhya]] que fundamenta esses dois períodos é diferente. O [[Yôga\|Yôga]] Pré-Clássico é fundamentado pelo Niríshwara Sámkhya, ou "Sámkhya sem-Senhor", e o Clássico, pelo Sêshwara Sámkhya, ou "Sámkhya com-Senhor". Este último é discretamente teísta, mas ainda não é espiritualista nem místico. Apenas filosófico.
 
-O Yôga Moderno é dividido em Medieval e Contemporâneo, ambos regidos pelo Vêdánta.
+O [[Yôga\|Yôga]] Moderno é dividido em Medieval e Contemporâneo, ambos regidos pelo [[Vêdánta\|Vêdánta]].
 
-A tradição, as lendas e mesmo as Escrituras declaram que o Yôga foi criado por Shiva. Só não confessam que Shiva era drávida. No entanto, chama-nos a atenção um pormenor artístico. Em todas as pinturas, Shiva é representado com a pele mais escura que os demais. As pessoas que aparecem naquelas representações pictóricas têm a tez clara, porém, o criador do Yôga é retratado com a cor violácea. Isso é bastante revelador, uma vez que os drávidas eram bem morenos, tinham olhos negros e cabelos negros, enquanto os arianos que invadiram a Índia eram originalmente louros, de pele e olhos claros. Depois, após 3500 anos de caldeamentos étnicos, deixaram de sê-lo.
+A tradição, as lendas e mesmo as Escrituras declaram que o [[Yôga\|Yôga]] foi criado por [[Shiva\|Shiva]]. Só não confessam que [[Shiva\|Shiva]] era [[drávida\|drávida]]. No entanto, chama-nos a atenção um pormenor artístico. Em todas as pinturas, [[Shiva\|Shiva]] é representado com a pele mais escura que os demais. As pessoas que aparecem naquelas representações pictóricas têm a tez clara, porém, o criador do [[Yôga\|Yôga]] é retratado com a cor violácea. Isso é bastante revelador, uma vez que os [[drávida\|drávida]]s eram bem morenos, tinham olhos negros e cabelos negros, enquanto os [[arianos\|arianos]] que invadiram a Índia eram originalmente louros, de pele e olhos claros. Depois, após 3500 anos de caldeamentos étnicos, deixaram de sê-lo.
 
 ## 🔗 Links e Referências
 
@@ -41,3 +41,6 @@ A tradição, as lendas e mesmo as Escrituras declaram que o Yôga foi criado po
 - [[10 - PERMANENT/Zettels/Yoga/71-descricao-de-varias-modalidades-de-yoga.md\|7.1 – Descrição de várias modalidades de Yôga]]
 - [[10 - PERMANENT/Zettels/Yoga/712-bhakti-yoga-o-yoga-devocional.md\|7.1.2 – Bhakti Yôga, o Yôga devocional]]
 - [[10 - PERMANENT/Zettels/Yoga/811-yamas.md\|8.1.1 – Yamas]]
+
+---
+[[30 - MPS OF CONTENT/Yoga MOC\|Yoga MOC]]

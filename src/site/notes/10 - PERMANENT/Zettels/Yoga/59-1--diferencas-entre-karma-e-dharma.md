@@ -5,11 +5,14 @@ title: 59.1 – Diferenças entre Karma e Dharma
 tags:
   - source/trato-yoga
   - type/concept
+  - type/philosophy
+  - theme/yoga
+  - theme/yoga/philosophy
 zettel-type: literature
 source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
 parent: Karma
-updated: 2025-04-21T16:53
+updated: 2025-05-02T10:53
 ---
 
 # 59.1 – Diferenças entre Karma e Dharma

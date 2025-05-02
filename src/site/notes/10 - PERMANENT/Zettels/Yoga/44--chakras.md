@@ -2,13 +2,16 @@
 dg-publish: true
 id: 20250418T020213
 title: 44 – Chakras
+aliases:
+  - Chakra
+  - Chakras
 tags:
   - source/trato-yoga
   - type/concept
 zettel-type: literature
 source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
-updated: 2025-04-21T16:53
+updated: 2025-05-02T11:04
 ---
 
 # 44 – Chakras

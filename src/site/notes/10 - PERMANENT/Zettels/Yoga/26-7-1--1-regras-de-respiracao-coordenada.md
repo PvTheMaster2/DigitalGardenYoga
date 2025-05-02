@@ -2,15 +2,20 @@
 dg-publish: true
 id: 20250418T020213
 title: 26.7.1 – 1. Regras de Respiração Coordenada
+aliases:
+  - Regras de Respiração (Asana)
 tags:
   - source/trato-yoga
-  - type/concept
+  - type/rule
+  - type/technique/asana
+  - theme/yoga
+  - theme/yoga/techniques
 zettel-type: literature
 source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
 parent: Detalhamento das Regras
 grandparent: Ásana
-updated: 2025-04-21T16:50
+updated: 2025-05-02T10:58
 ---
 
 # 26.7.1 – 1. Regras de Respiração Coordenada
@@ -24,10 +29,10 @@ As outras regras são:
 [resume]
     -  Flexões para frente e para os lados são feitas com expiração; para trás com inspiração, exceto as de pé.
     -  Ao torcer uma esponja molhada a água sai: ao torcer o tórax, que é uma esponja de ar, o ar sai.
-    -  Ásanas em decúbito frontal são feitos com inspiração.
+    -  [[Ásanas\|Ásanas]] em decúbito frontal são feitos com inspiração.
     -  Posições musculares são feitas com os pulmões cheios.
-    -  Ásanas de longa permanência, ou em que o tronco esteja ereto, têm respiração livre.
-    -  Em caso de dúvida ou de mal estar, pratique todos os ásanas com os pulmões vazios.
+    -  [[Ásanas\|Ásanas]] de longa permanência, ou em que o tronco esteja ereto, têm respiração livre.
+    -  Em caso de dúvida ou de mal estar, pratique todos os [[ásanas\|ásanas]] com os pulmões vazios.
 
 ## 🔗 Links e Referências
 
@@ -46,3 +51,6 @@ As outras regras são:
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
 - [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/44-chakras.md\|44 – Chakras]]
+
+---
+[[30 - MPS OF CONTENT/Yoga MOC\|Yoga MOC]]

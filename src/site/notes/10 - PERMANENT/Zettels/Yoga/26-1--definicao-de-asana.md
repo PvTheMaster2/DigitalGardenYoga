@@ -5,11 +5,15 @@ title: 26.1 – Definição de Ásana
 tags:
   - source/trato-yoga
   - type/concept
+  - type/technique
+  - type/technique/asana
+  - theme/yoga
+  - theme/yoga/techniques
 zettel-type: literature
 source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
 parent: Ásana
-updated: 2025-04-21T16:49
+updated: 2025-05-02T10:53
 ---
 
 # 26.1 – Definição de Ásana

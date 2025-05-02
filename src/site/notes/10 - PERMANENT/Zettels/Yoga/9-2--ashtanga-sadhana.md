@@ -2,19 +2,24 @@
 dg-publish: true
 id: 20250418T020213
 title: 9.2 – Ashtánga Sádhana
+aliases:
+  - Ashtanga Sadhana
+  - Ashtánga Sádhana
 tags:
   - source/trato-yoga
-  - type/concept
+  - type/practice
+  - theme/yoga
+  - theme/yoga/practice
 zettel-type: literature
 source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
 parent: Yôga Pré-Clássico, tronco antigo, Pré-Clássico
-updated: 2025-04-21T16:46
+updated: 2025-05-02T11:02
 ---
 
 # 9.2 – Ashtánga Sádhana
 
-A característica principal do SwáSthya Yôga é sua prática ortodoxa denominada ashtánga sádhana (ashta = oito; anga = parte; sádhana = prática). Trata-se de uma prática integrada em oito partes, a saber: mudrá, pújá, mantra, pránáyáma, kriyá, ásana, yôganidrá, samyama. Estes elementos serão explicados em detalhe mais adiante.
+A característica principal do [[SwáSthya Yôga\|SwáSthya Yôga]] é sua prática ortodoxa denominada ashtánga sádhana (ashta = oito; anga = parte; sádhana = prática). Trata-se de uma prática integrada em oito partes, a saber: [[mudrá\|mudrá]], [[pújá\|pújá]], [[mantra\|mantra]], [[pránáyáma\|pránáyáma]], [[kriyá\|kriyá]], [[ásana\|ásana]], [[yôganidrá\|yôganidrá]], [[samyama\|samyama]]. Estes elementos serão explicados em detalhe mais adiante.
 
 ### Ashtánga Sádhana
 A estrutura acima é a primeira que o praticante aprende. Denomina-se ádi (seguido de palavra iniciada por vogal o i se transforma em y, ády). O segundo tipo é o viparīta ashtánga sádhana. Depois virão mahá, swa, manasika e gupta ashtánga sádhana, somente acessíveis a instrutores de Yôga.
@@ -44,3 +49,6 @@ No entanto, se você não se identifica com esta forma mais completa, em oito pa
 - [[10 - PERMANENT/Zettels/Yoga/71-descricao-de-varias-modalidades-de-yoga.md\|7.1 – Descrição de várias modalidades de Yôga]]
 - [[10 - PERMANENT/Zettels/Yoga/9-yoga-pre-classico-tronco-antigo-pre-classico.md\|9 – Yôga Pré-Clássico, tronco antigo, Pré-Clássico]]
 - [[10 - PERMANENT/Zettels/Yoga/921-ashtanga-sadhana.md\|9.2.1 – Ashtánga Sádhana]]
+
+---
+[[30 - MPS OF CONTENT/Yoga MOC\|Yoga MOC]]

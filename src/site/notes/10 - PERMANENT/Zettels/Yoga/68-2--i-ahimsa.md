@@ -5,11 +5,14 @@ title: 68.2 – I. Ahimsá
 tags:
   - source/trato-yoga
   - type/concept
+  - type/ethics
+  - theme/yoga
+  - theme/yoga/ethics
 zettel-type: literature
 source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
 parent: Código de Ética do Yôga
-updated: 2025-04-21T16:55
+updated: 2025-05-02T10:53
 ---
 
 # 68.2 – I. Ahimsá

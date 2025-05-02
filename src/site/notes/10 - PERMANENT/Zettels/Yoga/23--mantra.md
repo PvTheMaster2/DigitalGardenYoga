@@ -5,10 +5,14 @@ title: 23 – Mantra
 tags:
   - source/trato-yoga
   - type/concept
+  - type/technique
+  - type/technique/mantra
+  - theme/yoga
+  - theme/yoga/techniques
 zettel-type: literature
 source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
-updated: 2025-04-18T03:41
+updated: 2025-05-02T10:54
 ---
 
 # 23 – Mantra
@@ -17,7 +21,7 @@ Som sagrado, ritmo, palavra de poder. Verbo capaz de catalisar mente em matéria
 
 ## Definição
 
-Mantra pode-se traduzir como vocalização. Compõe-se do radical *man* (pensar) + a partícula *tra* (instrumento). É significativa tal construção semântica, já que o mantra é muito utilizado para se alcançar a “supressão da instabilidade da consciência” (*chitta vritti nirôdhah*), denominada meditação, a qual consiste na parada das ondas mentais.
+Mantra pode-se traduzir como vocalização. Compõe-se do radical *man* (pensar) + a partícula *tra* (instrumento). É significativa tal construção semântica, já que o mantra é muito utilizado para se alcançar a "supressão da instabilidade da consciência" (*chitta vritti nirôdhah*), denominada meditação, a qual consiste na parada das ondas mentais.
 
 ## Para quê praticar mantra
 
@@ -34,7 +38,7 @@ Significa cântico. Kirtan é um tipo de mantra que, este sim, excepcionalmente,
 
 A diferença entre kirtan e música é muito sutil, mais que nada, conceitual. Kirtan é um mantra extroversor, de atuação mais psicológica que fisiológica, e é menos poderoso que o japa.
 ### Japa
-Significa repetição. É a “água mole em pedra dura, tanto bate até que fura”. O japa ideal tem uma só nota musical, uma só palavra, uma só sílaba e, de preferência, não tem tradução alguma. Contudo, pode-se executar um kirtan como japa. Para isso, acrescenta-se repetição intensiva. Não será um japa perfeito, mas pode ser classificado como japa sem risco de erro.
+Significa repetição. É a "água mole em pedra dura, tanto bate até que fura". O japa ideal tem uma só nota musical, uma só palavra, uma só sílaba e, de preferência, não tem tradução alguma. Contudo, pode-se executar um kirtan como japa. Para isso, acrescenta-se repetição intensiva. Não será um japa perfeito, mas pode ser classificado como japa sem risco de erro.
 
 Japa é um mantra introversor, de atuação mais fisiológica do que psicológica, e é muito mais forte que o kirtan.
 ### Bíja
@@ -108,7 +112,7 @@ O Gáyatrí mantra é um dos mais tradicionais do hinduísmo. Existem muitas var
 
 ÔM tat Savitura varênyam. sejamos como o Sol, 
 
-” bhargô dêvasya dhímani, esplendorosos como deuses. 
+" bhargô dêvasya dhímani, esplendorosos como deuses. 
 
 dhyô yô naha prachôdayatô. Que isso estimule nossas mentes. 
 

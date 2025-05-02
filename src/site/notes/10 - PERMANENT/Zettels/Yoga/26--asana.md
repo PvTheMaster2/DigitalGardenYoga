@@ -2,13 +2,18 @@
 dg-publish: true
 id: 20250418T020213
 title: 26 – Ásana
+aliases:
+  - Asana
+  - Ásana
+  - Asanas
+  - Ásanas
 tags:
   - source/trato-yoga
   - type/concept
 zettel-type: literature
 source: Trato de Yôga do Mestre De Rose
 created: 2025-04-18
-updated: 2025-04-21T16:49
+updated: 2025-05-02T10:55
 ---
 
 # 26 – Ásana
@@ -116,10 +121,10 @@ Localize a sua consciência na região mais solicitada pelo ásana. Qualquer ás
 Quando você localiza a consciência numa região do seu corpo, direciona para lá um jorro de energia vital. Essa energia é denominada *prána*. Ela eleva a temperatura da região na qual você concentra sua atenção, estimula hiperemia, um maior afluxo de sangue e, com isso, contribui notavelmente para a regeneração de tecidos, a vitalização de órgãos e músculos, a eliminação de potenciais enfermidades, estimula *chakras* e aumenta a flexibilidade.
 
 **Teste nº 1:**  
-Como demonstrar que o fenômeno fisiológico ocorre realmente? Simples. Sente-se em qualquer ásana de meditação. Mas não medite. Coloque as mãos na mesma altura. Podem ficar no chão ou sobre os joelhos. Passe, então, a concentrar-se sobre a sua mão direita. Não mentalize nada em especial. Apenas localize a consciência e repita mentalmente: “mão direita, minha mão direita, tenho uma mão direita, minha mão direita tem músculos, minha mão direita tem ossos, minha mão direita tem veias e artérias, sinto o tato da minha mão direita, sinto a temperatura da minha mão direita” etc. O objetivo disso é evitar que a sua mente se disperse. Você precisa permanecer concentrado na sua mão direita. Um praticante de Yôga mais experiente não precisa verbalizar nada. Mantenha o exercício de localização da consciência durante 5 minutos. Durante esse tempo, sinta de fato as veias e artérias, músculos e pele da sua mão direita. Depois, abra os olhos e compare as duas mãos. Aquela na qual se concentrou vai estar mais avermelhada de sangue. Em seguida, toque com uma palma na outra para sentir a temperatura.
+Como demonstrar que o fenômeno fisiológico ocorre realmente? Simples. Sente-se em qualquer ásana de meditação. Mas não medite. Coloque as mãos na mesma altura. Podem ficar no chão ou sobre os joelhos. Passe, então, a concentrar-se sobre a sua mão direita. Não mentalize nada em especial. Apenas localize a consciência e repita mentalmente: "mão direita, minha mão direita, tenho uma mão direita, minha mão direita tem músculos, minha mão direita tem ossos, minha mão direita tem veias e artérias, sinto o tato da minha mão direita, sinto a temperatura da minha mão direita" etc. O objetivo disso é evitar que a sua mente se disperse. Você precisa permanecer concentrado na sua mão direita. Um praticante de Yôga mais experiente não precisa verbalizar nada. Mantenha o exercício de localização da consciência durante 5 minutos. Durante esse tempo, sinta de fato as veias e artérias, músculos e pele da sua mão direita. Depois, abra os olhos e compare as duas mãos. Aquela na qual se concentrou vai estar mais avermelhada de sangue. Em seguida, toque com uma palma na outra para sentir a temperatura.
 ### 5. Regras de Mentalização
 **O que mentalizar?**  
-A mentalização é “ação mental” (*chaittanya*, de *chitta*) e consiste em aplicar imagens, cores e/ou sons na região onde você localiza a consciência.
+A mentalização é "ação mental" (*chaittanya*, de *chitta*) e consiste em aplicar imagens, cores e/ou sons na região onde você localiza a consciência.
 
 **Regra de mentalização exotérica:**  
 Imagens e verbalização positiva.  
@@ -139,7 +144,7 @@ Para certificar-se e convencer-se do quanto a sua mente tem poder sobre circunst
 
 **Regra de mentalização esotérica:**  
 Yantras e mantras.  
-Estes símbolos e sons só são transmitidos mediante iniciação. Se pudessem constar de livros, não mereceriam mais tal classificação e cairiam no anacronismo de denominar “esotérico” algo que não é mais absolutamente reservado e está ao alcance de qualquer um, digno ou não, que vá fazer bom ou mau uso do conhecimento.
+Estes símbolos e sons só são transmitidos mediante iniciação. Se pudessem constar de livros, não mereceriam mais tal classificação e cairiam no anacronismo de denominar "esotérico" algo que não é mais absolutamente reservado e está ao alcance de qualquer um, digno ou não, que vá fazer bom ou mau uso do conhecimento.
 ### 6. Regras de Ângulo Didático
 **Demonstrar de frente, de lado ou a 45º**  
 As regras de ângulo didático (*posicionamento do corpo em relação ao observador*) são:
@@ -305,7 +310,7 @@ Demonstre as técnicas o tempo todo. Corrija os alunos o tempo todo. Enquanto de
 
 ## Modelo de Locução para o Seu Treinamento
 
-“7º ANGA: YÔGANIDRÁ – TÉCNICA DE DESCONTRAÇÃO.
+"7º ANGA: YÔGANIDRÁ – TÉCNICA DE DESCONTRAÇÃO.
 
 [Fase 1] Relaxe profundamente e abandone-se totalmente, com o corpo imóvel, os olhos fechados e a mente serena. Coloque-se na posição mais confortável que possa encontrar. Daqui por diante, não se mexa mais. Permaneça lúcido e acordado, ouvindo tudo o que eu disser para filtrar e assimilar somente aquilo que você quiser.
 Comece relaxando todo o corpo de uma só vez, sentindo mais a força de atração da Terra, como se estivesse se derretendo no chão. Solte seus músculos, nervos e órgãos internos. Relaxe, solte, descanse.
@@ -319,7 +324,7 @@ Da próxima vez que executar este exercício de relaxamento, ele será muito mai
 
 [Fase 3] Daqui a cinco segundos, ao terminar este relaxamento, você estará com uma expressiva sensação de paz, satisfação, saúde, energia e leveza, com muita disposição, entusiasmo, alegria e bem-estar. Com muita motivação para viver, sorrir, amar e trabalhar.
 
-[Fase 4] Comece agora a retornar ao corpo físico, trazendo a consciência pelos cinco sentidos, do mais sutil ao mais denso: ouvindo melhor os sons em torno, ouvindo melhor a minha voz; inspirando profundamente e sentindo o perfume do ar; movendo a língua, procurando sentir gosto; movendo os lábios, abrindo os olhos e enxergando, movendo o corpo todo sentindo o tato de todo o corpo, espreguiçando bastante e devolvendo força e vitalidade aos músculos; bocejando, sorrindo e sentando-se para meditar. A parte mais importante do despertamento foi o sorriso.”
+[Fase 4] Comece agora a retornar ao corpo físico, trazendo a consciência pelos cinco sentidos, do mais sutil ao mais denso: ouvindo melhor os sons em torno, ouvindo melhor a minha voz; inspirando profundamente e sentindo o perfume do ar; movendo a língua, procurando sentir gosto; movendo os lábios, abrindo os olhos e enxergando, movendo o corpo todo sentindo o tato de todo o corpo, espreguiçando bastante e devolvendo força e vitalidade aos músculos; bocejando, sorrindo e sentando-se para meditar. A parte mais importante do despertamento foi o sorriso."
 
 
 ## 🔗 Links e Referências

@@ -1,17 +1,7 @@
 ---
-dg-publish: true
-id: 20250418T020213
-title: 24.3.5 – 5 – Bandha adhama pránáyáma
-tags:
-  - source/trato-yoga
-  - type/concept
-zettel-type: literature
-source: Trato de Yôga do Mestre De Rose
-created: 2025-04-18
-parent: Tipos de Pránáyáma
-grandparent: Pránáyáma
-updated: 2025-04-18T03:41
+{"dg-publish":true,"permalink":"/10 - PERMANENT/Zettels/Yoga/24-3-5--5-bandha-adhama-pranayama/","title":"24.3.5 – 5 – Bandha adhama pránáyáma","tags":["source/trato-yoga","type/concept"],"noteIcon":""}
 ---
+
 
 # 24.3.5 – 5 – Bandha adhama pránáyáma
 

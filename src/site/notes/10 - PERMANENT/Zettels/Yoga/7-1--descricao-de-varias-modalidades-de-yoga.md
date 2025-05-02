@@ -1,17 +1,7 @@
 ---
-dg-publish: true
-id: 20250418T020213
-title: 7.1 – Descrição de várias modalidades de Yôga
-tags:
-  - source/trato-yoga
-  - type/concept
-  - theme/yoga
-zettel-type: literature
-source: Trato de Yôga do Mestre De Rose
-created: 2025-04-18
-parent: TIPOS DE YÔGA
-updated: 2025-04-21T16:45
+{"dg-publish":true,"permalink":"/10 - PERMANENT/Zettels/Yoga/7-1--descricao-de-varias-modalidades-de-yoga/","title":"7.1 – Descrição de várias modalidades de Yôga","tags":["source/trato-yoga","type/concept","theme/yoga"],"noteIcon":""}
 ---
+
 
 # 7.1 – Descrição de várias modalidades de Yôga
 
