@@ -1,20 +1,11 @@
 ---
-dg-publish: true
-title: Prana - Sub-pranas (Krikara, Kurma)
-tags:
-  - source/trato-yoga
-  - type/zettel/concept
-  - theme/yoga/energy/prana
-zettel-type: literature
-source: Trato de Yôga do Mestre De Rose
-created: 2024-07-28
-parent: Prána (Genérico)
-updated: 2025-05-02T10:10
+{"dg-publish":true,"permalink":"/10 - PERMANENT/Zettels/Yoga/Prana - Sub-pranas (Krikara, Kurma)/","title":"Prana - Sub-pranas (Krikara, Kurma)","tags":["source/trato-yoga","type/zettel/concept","theme/yoga/energy/prana"],"noteIcon":""}
 ---
+
 
 # Prana - Sub-pranas (Krikara, Kurma)
 
-![img_p5_pos1_650x111_498b74.jpeg](/img/user/images/img_p5_pos1_650x111_498b74.jpeg)
+
 
 Além dos cinco pránas específicos ([[10 - PERMANENT/Zettels/Yoga/44-1--prana-generico\|prána, apána, samána, udána e vyána]]), há também o conhecimento dos **sub-pránas**, que exercem funções ainda mais específicas e sutis no organismo.
 
