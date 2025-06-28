@@ -14,7 +14,7 @@ tags:
   - theme/yoga/energy/anahata
   - theme/yoga/canvas
 created: 2025-01-31
-updated: 2025-06-28T14:22
+updated: 2025-06-28T14:29
 ---
 
 # 🌸 Anahata - Visualizações Interativas
@@ -30,7 +30,7 @@ updated: 2025-06-28T14:22
 **Visão geral completa do sistema energético do chakra do coração**
 
 <div class="image-zoom-container">
-  <img src="canvas_anahata_completo.png" alt="Mapa Completo do Anahata Chakra" class="zoomable-image" title="Clique para ampliar - Mapa Completo do Anahata">
+  <img src="/img/canvas_anahata_completo.png" alt="Mapa Completo do Anahata Chakra" class="zoomable-image" title="Clique para ampliar - Mapa Completo do Anahata">
   <div class="image-caption">
     <strong>Canvas Anahata Completo</strong><br>
     <em>Mapa detalhado do chakra do coração, suas conexões e práticas associadas</em>
@@ -41,7 +41,7 @@ updated: 2025-06-28T14:22
 **Rede de canais energéticos conectados ao Anahata**
 
 <div class="image-zoom-container">
-  <img src="canvas_nadis.png" alt="Sistema dos Nadis" class="zoomable-image" title="Clique para ampliar - Sistema dos Nadis">
+  <img src="/img/canvas_nadis.png" alt="Sistema dos Nadis" class="zoomable-image" title="Clique para ampliar - Sistema dos Nadis">
   <div class="image-caption">
     <strong>Canvas dos Nadis</strong><br>
     <em>Visualização da rede de canais energéticos (nadis) e suas interconexões</em>
@@ -52,7 +52,7 @@ updated: 2025-06-28T14:22
 **Análise estrutural do sistema energético do Anahata**
 
 <div class="image-zoom-container">
-  <img src="anahata sem confirmação.png" alt="Estrutura Energética do Anahata" class="zoomable-image" title="Clique para ampliar - Estrutura Energética">
+  <img src="/img/anahata sem confirmação.png" alt="Estrutura Energética do Anahata" class="zoomable-image" title="Clique para ampliar - Estrutura Energética">
   <div class="image-caption">
     <strong>Anahata - Estrutura Energética</strong><br>
     <em>Mapa da estrutura energética e componentes do chakra (versão em desenvolvimento)</em>
