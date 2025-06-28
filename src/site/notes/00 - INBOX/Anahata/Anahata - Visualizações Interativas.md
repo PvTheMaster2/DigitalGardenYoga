@@ -2,24 +2,6 @@
 {"dg-publish":true,"permalink":"/00 - INBOX/Anahata/Anahata - Visualizações Interativas/","title":"Anahata - Visualizações Interativas","tags":["source/yoga-tratado","type/visualization","type/interactive","theme/yoga/energy/chakra","theme/yoga/energy/anahata","theme/yoga/canvas"],"noteIcon":""}
 ---
 
----
-dg-publish: true
-dg-home: false
-title: Anahata - Visualizações Interativas
-aliases:
-  - Anahata Canvas
-  - Visualizações Anahata
-  - Mapas Anahata
-tags:
-  - source/yoga-tratado
-  - type/visualization
-  - type/interactive
-  - theme/yoga/energy/chakra
-  - theme/yoga/energy/anahata
-  - theme/yoga/canvas
-created: 2025-01-31
-updated: 2025-06-28T14:29
----
 
 # 🌸 Anahata - Visualizações Interativas
 
