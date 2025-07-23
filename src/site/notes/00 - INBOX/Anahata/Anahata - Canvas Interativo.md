@@ -1,21 +1,7 @@
 ---
-dg-publish: true
-dg-home: false
-title: Anahata - Canvas Interativo com Mermaid
-aliases:
-  - Canvas Anahata Mermaid
-  - Diagrama Anahata
-  - Mapa Mental Anahata
-tags:
-  - source/yoga-tratado
-  - type/interactive
-  - type/canvas
-  - type/diagram
-  - theme/yoga/energy/chakra
-  - theme/yoga/energy/anahata
-created: 2025-01-31
-updated: 2025-06-28T14:43
+{"dg-publish":true,"permalink":"/00 - INBOX/Anahata/Anahata - Canvas Interativo/","title":"Anahata - Canvas Interativo com Mermaid","tags":["source/yoga-tratado","type/interactive","type/canvas","type/diagram","theme/yoga/energy/chakra","theme/yoga/energy/anahata"],"noteIcon":""}
 ---
+
 
 # 🌸 Anahata - Canvas Interativo
 
