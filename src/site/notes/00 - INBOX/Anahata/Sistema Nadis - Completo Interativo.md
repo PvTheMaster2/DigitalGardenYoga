@@ -1,22 +1,7 @@
 ---
-dg-publish: true
-dg-home: false
-title: Sistema Nāḍīs - Completo Interativo
-aliases:
-  - Sistema Nadis Completo
-  - Nadis Canais Energéticos
-  - Canais Sutis Energia
-tags:
-  - source/yoga-tratado
-  - type/interactive
-  - type/system
-  - type/nadis
-  - theme/yoga/energy/nadis
-  - theme/yoga/energy/sushumna
-  - theme/yoga/energy/ida-pingala
-created: 2025-01-31
-updated: 2025-06-28T14:46
+{"dg-publish":true,"permalink":"/00 - INBOX/Anahata/Sistema Nadis - Completo Interativo/","title":"Sistema Nāḍīs - Completo Interativo","tags":["source/yoga-tratado","type/interactive","type/system","type/nadis","theme/yoga/energy/nadis","theme/yoga/energy/sushumna","theme/yoga/energy/ida-pingala"],"noteIcon":""}
 ---
+
 
 # 🌀 Sistema Nāḍīs - Canais Energéticos Completos
 
