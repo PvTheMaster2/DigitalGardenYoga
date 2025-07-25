@@ -17,7 +17,7 @@
 **Visão geral completa do sistema energético do chakra do coração**
 
 <div class="image-zoom-container">
-  <img src="/00 - INBOX/Anahata/canvas_anahata_completo.png" alt="Mapa Completo do Anahata Chakra" class="zoomable-image" title="Clique para ampliar - Mapa Completo do Anahata">
+  <img src="canvas_anahata_completo.png" alt="Mapa Completo do Anahata Chakra" class="zoomable-image" title="Clique para ampliar - Mapa Completo do Anahata">
   <div class="image-caption">
     <strong>Canvas Anahata Completo</strong><br>
     <em>Mapa detalhado do chakra do coração, suas conexões e práticas associadas</em>
