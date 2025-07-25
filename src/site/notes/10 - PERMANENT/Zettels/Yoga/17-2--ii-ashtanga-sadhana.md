@@ -79,7 +79,7 @@ Concentração, meditação e samádhi “ao mesmo tempo”, isto é, praticados
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/3392-concentracao-dhra.md\|33.9.2 – Concentração (*dhāraṇā)*]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/442-os-pontos-da-acupuntura.md\|44.2 – Os Pontos da Acupuntura]]
 - [[10 - PERMANENT/Zettels/Yoga/594-karma-individual-e-karma-coletivo.md\|59.4 – Karma Individual e Karma Coletivo]]
 - [[10 - PERMANENT/Zettels/Yoga/7-tipos-de-yoga.md\|7 – TIPOS DE YÔGA]]

@@ -30,7 +30,7 @@ O ideal é continuar progredindo.
 - [[10 - PERMANENT/Zettels/Yoga/26-asana.md\|26 – Ásana]]
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/44-chakras.md\|44 – Chakras]]
 - [[10 - PERMANENT/Zettels/Yoga/49-o-que-e-a-kundalini.md\|49 – O que é a Kundaliní]]
 - [[10 - PERMANENT/Zettels/Yoga/492-os-varios-metodos-para-despertar-a-kundalini.md\|49.2 – Os Vários Métodos para Despertar a Kundaliní]]

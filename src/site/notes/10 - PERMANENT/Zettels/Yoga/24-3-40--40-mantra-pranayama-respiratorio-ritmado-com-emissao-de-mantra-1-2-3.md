@@ -49,7 +49,7 @@ Outro nome: *pránava pránáyáma*.
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/3362-ii-mantra-dhyna.md\|33.6.2 – II. Mantra dhyāna]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/7113-yoga-integral-o-yoga-de-integracao-nas-atividades-do-dia-a-dia.md\|7.1.13 – Yôga Integral, o Yôga de integração nas atividades do dia-a-dia]]
 - [[10 - PERMANENT/Zettels/Yoga/7117-power-yoga-outra-variedade-de-hatha-yoga.md\|7.1.17 – Power Yôga, outra variedade de Hatha Yôga]]
 - [[10 - PERMANENT/Zettels/Yoga/719-suddha-raja-yoga-uma-variedade-de-raja-yoga-medieval.md\|7.1.9 – Suddha Rája Yôga, uma variedade de Rája Yôga medieval]]

@@ -28,7 +28,7 @@ updated: 2025-04-18T03:41
 - [[10 - PERMANENT/Zettels/Yoga/3-o-que-e-o-derose-method.md\|3 – O que é o DeRose Method]]
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/49-o-que-e-a-kundalini.md\|49 – O que é a Kundaliní]]
 - [[10 - PERMANENT/Zettels/Yoga/492-os-varios-metodos-para-despertar-a-kundalini.md\|49.2 – Os Vários Métodos para Despertar a Kundaliní]]
 - [[10 - PERMANENT/Zettels/Yoga/66-sugestoes-de-pratos-sem-carnes-de-qualquer-especie.md\|66 – Sugestões de Pratos sem Carnes de Qualquer Espécie]]

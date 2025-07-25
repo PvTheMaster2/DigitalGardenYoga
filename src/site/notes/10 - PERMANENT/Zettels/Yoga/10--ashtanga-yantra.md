@@ -30,7 +30,7 @@ Pois foi apenas isso que fizemos. O armário é o Yôga Antigo, cuja herança no
 - [[10 - PERMANENT/Zettels/Yoga/32-reprogramacao-emocional.md\|32 – Reprogramação Emocional]]
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/58-outros-conceitos-relacionados.md\|58 – Outros Conceitos Relacionados]]
 - [[10 - PERMANENT/Zettels/Yoga/59-karma.md\|59 – Karma]]
 - [[10 - PERMANENT/Zettels/Yoga/593-karma-negativo-e-karma-positivo.md\|59.3 – Karma Negativo e Karma Positivo]]

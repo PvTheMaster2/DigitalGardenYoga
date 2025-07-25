@@ -33,4 +33,4 @@ Se for meditação legítima, sua ampliação da consciência é de tal forma qu
 - [[10 - PERMANENT/Zettels/Yoga/337-advertencia-aos-neofitos.md\|33.7 – Advertência aos neófitos]]
 - [[10 - PERMANENT/Zettels/Yoga/339-yogi.md\|33.9 – Yôgi]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]

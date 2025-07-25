@@ -57,6 +57,6 @@ Complemente estas informações com as do quadro sinóptico das categorias de ex
 - [[10 - PERMANENT/Zettels/Yoga/351-a-serie-e-adaptavel-a-cada-praticante.md\|35.1 – A Série é Adaptável a Cada Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/361-bisagem-de-cada-tecnica.md\|36.1 – Bisagem de Cada Técnica]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/43-pratica-de-yoga-com-instrutor-e-participacao-em-cursos.md\|43 – Prática de Yôga com Instrutor e Participação em Cursos]]
 - [[10 - PERMANENT/Zettels/Yoga/45-nadis-os-meridianos-de-energia-vital.md\|45 – Nádís, os Meridianos de Energia Vital]]

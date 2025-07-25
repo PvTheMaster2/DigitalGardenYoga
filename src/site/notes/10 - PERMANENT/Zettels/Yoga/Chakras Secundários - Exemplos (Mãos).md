@@ -1,18 +1,7 @@
 ---
-dg-publish: true
-title: Chakras Secundários - Exemplos (Mãos) e Estimulação
-tags:
-  - source/trato-yoga
-  - type/zettel/concept
-  - type/zettel/practice
-  - theme/yoga/energy/chakra
-  - theme/yoga/practice/mantra
-zettel-type: literature
-source: Trato de Yôga do Mestre De Rose
-created: 2024-07-28
-parent: Chakras
-updated: 2025-05-02T09:58
+{"dg-publish":true,"permalink":"/10 - PERMANENT/Zettels/Yoga/Chakras Secundários - Exemplos (Mãos)/","title":"Chakras Secundários - Exemplos (Mãos) e Estimulação","tags":["source/trato-yoga","type/zettel/concept","type/zettel/practice","theme/yoga/energy/chakra","theme/yoga/practice/mantra"],"noteIcon":""}
 ---
+
 
 # Chakras Secundários - Exemplos (Mãos) e Estimulação
 

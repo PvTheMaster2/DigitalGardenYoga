@@ -50,6 +50,6 @@ Outro nome: em algumas escolas, o kapálabhátí é denominado bhastriká e vice
 - [[10 - PERMANENT/Zettels/Yoga/3211-o-que-fazer.md\|32.11 – O Que Fazer]]
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/572-mestre-nao-e-uma-pessoa-sem-defeitos.md\|57.2 – Mestre Não é uma Pessoa Sem Defeitos]]
 - [[10 - PERMANENT/Zettels/Yoga/589-transmissao-do-mah-kripa.md\|58.9 – Transmissão do Mahā Kripá]]

@@ -29,6 +29,6 @@ Concentração, meditação e samádhi “ao mesmo tempo”, isto é, praticados
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/3314-exercicios-de-dhyna-meditacao.md\|33.14 – Exercícios de *dhyāna (meditação)*]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/7-tipos-de-yoga.md\|7 – TIPOS DE YÔGA]]
 - [[10 - PERMANENT/Zettels/Yoga/71-descricao-de-varias-modalidades-de-yoga.md\|7.1 – Descrição de várias modalidades de Yôga]]

@@ -40,7 +40,7 @@ Coloque as mãos em *prônam mudrá*. Concentre-se no seu Mestre, pessoa que ser
 - [[10 - PERMANENT/Zettels/Yoga/281-definicao.md\|28.1 – Definição]]
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/40-corrente-macrocosmica.md\|40 – Corrente Macrocósmica]]
 - [[10 - PERMANENT/Zettels/Yoga/443-quais-sao-os-chakras-principais.md\|44.3 – Quais São os Chakras Principais]]
 - [[10 - PERMANENT/Zettels/Yoga/448-a-optica-hindu-e-a-interpretacao-ocidental.md\|44.8 – A Óptica Hindu e a Interpretação Ocidental]]

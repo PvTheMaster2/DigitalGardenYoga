@@ -40,7 +40,7 @@ Colocando lado a lado os verbos acima, poderemos ter uma ideia mais precisa dos 
 - [[10 - PERMANENT/Zettels/Yoga/23-mantra.md\|23 – Mantra]]
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/4-cronologia-historica.md\|4 – Cronologia Histórica]]
 - [[10 - PERMANENT/Zettels/Yoga/5-como-se-processou-a-transformacao.md\|5 – COMO SE PROCESSOU A TRANSFORMAÇÃO]]
 - [[10 - PERMANENT/Zettels/Yoga/51-tipos-de-yogin.md\|5.1 – Tipos de Yôgin]]

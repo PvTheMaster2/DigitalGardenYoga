@@ -45,6 +45,6 @@ A meditação é o fenômeno produzido pelo funcionamento do *ájñā chakra*, s
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/3321-meditacao-e-parte-do-yoga.md\|33.2.1 – Meditação é parte do Yôga]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/49-o-que-e-a-kundalini.md\|49 – O que é a Kundaliní]]
 - [[10 - PERMANENT/Zettels/Yoga/7-tipos-de-yoga.md\|7 – TIPOS DE YÔGA]]

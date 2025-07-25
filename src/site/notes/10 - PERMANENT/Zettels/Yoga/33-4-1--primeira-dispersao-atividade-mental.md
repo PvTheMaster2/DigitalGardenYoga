@@ -42,4 +42,4 @@ Vai ver que a mente se comportará exatamente como uma criança e se aquietará 
 - [[10 - PERMANENT/Zettels/Yoga/334-dispersoes.md\|33.4 – Dispersões]]
 - [[10 - PERMANENT/Zettels/Yoga/339-yogi.md\|33.9 – Yôgi]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]

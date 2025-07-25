@@ -124,7 +124,7 @@ Uma estimulação de chakras sem a ignição da kundaliní, aplicando apenas rec
 - [[10 - PERMANENT/Zettels/Yoga/351-a-serie-e-adaptavel-a-cada-praticante.md\|35.1 – A Série é Adaptável a Cada Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/37-agora-vamos-juntar-tudo-e-praticar.md\|37 – Agora Vamos Juntar Tudo e Praticar?]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/441-prana-generico.md\|44.1 – Prána (Genérico)]]
 - [[10 - PERMANENT/Zettels/Yoga/442-os-pontos-da-acupuntura.md\|44.2 – Os Pontos da Acupuntura]]
 - [[10 - PERMANENT/Zettels/Yoga/443-quais-sao-os-chakras-principais.md\|44.3 – Quais São os Chakras Principais]]

@@ -47,7 +47,7 @@ Os corpos ocupam o mesmo lugar no espaço por estarem uns ``dentro'' dos outros 
 - [[10 - PERMANENT/Zettels/Yoga/339-yogi.md\|33.9 – Yôgi]]
 - [[10 - PERMANENT/Zettels/Yoga/3393-meditacao-dhyna.md\|33.9.3 – Meditação (*dhyāna)*]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/51-corpos-do-homem-e-planos-do-universo.md\|51 – Corpos do Homem e Planos do Universo]]
 - [[10 - PERMANENT/Zettels/Yoga/52-a-diferenca-entre-personalidade-e-individualidade.md\|52 – A Diferença entre Personalidade e Individualidade]]
 - [[10 - PERMANENT/Zettels/Yoga/521-os-sete-subplanos.md\|52.1 – Os Sete Subplanos]]

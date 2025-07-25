@@ -29,7 +29,7 @@ Sat sanga significa congregação ou reunião em boa companhia, ou simplesmente 
 - [[10 - PERMANENT/Zettels/Yoga/321-texto-completo.md\|32.1 – Texto Completo]]
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/7-tipos-de-yoga.md\|7 – TIPOS DE YÔGA]]
 - [[10 - PERMANENT/Zettels/Yoga/71-descricao-de-varias-modalidades-de-yoga.md\|7.1 – Descrição de várias modalidades de Yôga]]
 - [[10 - PERMANENT/Zettels/Yoga/9-yoga-pre-classico-tronco-antigo-pre-classico.md\|9 – Yôga Pré-Clássico, tronco antigo, Pré-Clássico]]

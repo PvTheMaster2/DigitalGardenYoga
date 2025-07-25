@@ -47,7 +47,7 @@ Os companheiros tratam os mais antigos e os que detêm graus mais elevados, com 
 - [[10 - PERMANENT/Zettels/Yoga/32-reprogramacao-emocional.md\|32 – Reprogramação Emocional]]
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/57-a-relacao-mestrediscipulo.md\|57 – A Relação Mestre/Discípulo]]
 - [[10 - PERMANENT/Zettels/Yoga/571-qual-e-a-diferenca-entre-instrutor-professor-e-mestre.md\|57.1 – Qual é a Diferença entre Instrutor, Professor e Mestre]]
 - [[10 - PERMANENT/Zettels/Yoga/572-mestre-nao-e-uma-pessoa-sem-defeitos.md\|57.2 – Mestre Não é uma Pessoa Sem Defeitos]]

@@ -30,5 +30,5 @@ Saguna significa com atributo. Designa os mantras que têm tradução e aludem a
 - [[10 - PERMANENT/Zettels/Yoga/336-os-tres-graus-de-meditacao.md\|33.6 – Os três graus de meditação]]
 - [[10 - PERMANENT/Zettels/Yoga/3364-detalhamento-dos-graus.md\|33.6.4 – Detalhamento dos Graus]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/7-tipos-de-yoga.md\|7 – TIPOS DE YÔGA]]

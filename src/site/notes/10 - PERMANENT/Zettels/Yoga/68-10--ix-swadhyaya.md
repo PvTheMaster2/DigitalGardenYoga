@@ -25,7 +25,7 @@ O auto-estudo deve ser praticado ainda mediante a sociabilidade, o alargamento d
 - [[10 - PERMANENT/Zettels/Yoga/26-asana.md\|26 – Ásana]]
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/68-codigo-de-etica-do-yoga.md\|68 – Código de Ética do Yôga]]
 - [[10 - PERMANENT/Zettels/Yoga/6811-x-ishwara-pranidhana.md\|68.11 – X. Íshwara Pranidhána]]
 - [[10 - PERMANENT/Zettels/Yoga/682-i-ahimsa.md\|68.2 – I. Ahimsá]]

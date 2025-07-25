@@ -38,7 +38,7 @@ Porém, lembre-se, se a doação que precede a recepção não for sincera e sua
 - [[10 - PERMANENT/Zettels/Yoga/32-reprogramacao-emocional.md\|32 – Reprogramação Emocional]]
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/401-como-enviar-energia-nos-primeiros-dez-minutos.md\|40.1 – Como Enviar Energia nos Primeiros Dez Minutos]]
 - [[10 - PERMANENT/Zettels/Yoga/402-como-receber-o-retorno-nos-outros-dez-minutos.md\|40.2 – Como Receber o Retorno nos Outros Dez Minutos]]
 - [[10 - PERMANENT/Zettels/Yoga/59-karma.md\|59 – Karma]]

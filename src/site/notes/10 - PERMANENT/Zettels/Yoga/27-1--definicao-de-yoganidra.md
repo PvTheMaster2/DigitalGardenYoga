@@ -47,5 +47,5 @@ Nas Escrituras antigas o Yôga sempre esteve ligado a ideias de força, poder e 
 - [[10 - PERMANENT/Zettels/Yoga/3211-o-que-fazer.md\|32.11 – O Que Fazer]]
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/589-transmissao-do-mah-kripa.md\|58.9 – Transmissão do Mahā Kripá]]

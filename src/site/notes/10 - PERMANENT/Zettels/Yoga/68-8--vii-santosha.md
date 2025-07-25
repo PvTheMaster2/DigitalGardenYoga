@@ -20,7 +20,7 @@ Discípulo é aquele que cultiva a arte de estar contente com o Mestre que escol
 
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/68-codigo-de-etica-do-yoga.md\|68 – Código de Ética do Yôga]]
 - [[10 - PERMANENT/Zettels/Yoga/6810-ix-swadhyya.md\|68.10 – IX. Swádhyāya]]
 - [[10 - PERMANENT/Zettels/Yoga/6811-x-ishwara-pranidhana.md\|68.11 – X. Íshwara Pranidhána]]

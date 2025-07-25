@@ -26,7 +26,7 @@ O karma individual é o denominador comum entre os diversos karmas coletivos que
 - [[10 - PERMANENT/Zettels/Yoga/32-reprogramacao-emocional.md\|32 – Reprogramação Emocional]]
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/59-karma.md\|59 – Karma]]
 - [[10 - PERMANENT/Zettels/Yoga/595-como-eles-atuam-sobre-nos.md\|59.5 – Como Eles Atuam Sobre Nós]]
 - [[10 - PERMANENT/Zettels/Yoga/596-karma-coletivo-e-egregora.md\|59.6 – Karma Coletivo e Egrégora]]

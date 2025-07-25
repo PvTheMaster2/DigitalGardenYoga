@@ -74,7 +74,7 @@ Outra dica: quanto menos você variar o método, mais rapidamente conseguirá en
 - [[10 - PERMANENT/Zettels/Yoga/339-yogi.md\|33.9 – Yôgi]]
 - [[10 - PERMANENT/Zettels/Yoga/3392-concentracao-dhra.md\|33.9.2 – Concentração (*dhāraṇā)*]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/511-tipos-de-corpos.md\|51.1 – Tipos de Corpos]]
 - [[10 - PERMANENT/Zettels/Yoga/52-a-diferenca-entre-personalidade-e-individualidade.md\|52 – A Diferença entre Personalidade e Individualidade]]
 - [[10 - PERMANENT/Zettels/Yoga/521-os-sete-subplanos.md\|52.1 – Os Sete Subplanos]]

@@ -22,7 +22,7 @@ Dessa forma, os instrutores que só ensinarem a prática regular, mas não incen
 - [[10 - PERMANENT/Zettels/Yoga/32-reprogramacao-emocional.md\|32 – Reprogramação Emocional]]
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/49-o-que-e-a-kundalini.md\|49 – O que é a Kundaliní]]
 - [[10 - PERMANENT/Zettels/Yoga/59-karma.md\|59 – Karma]]
 - [[10 - PERMANENT/Zettels/Yoga/6614-bibliografia-de-apoio-a-este-capitulo.md\|66.14 – Bibliografia de Apoio a Este Capítulo]]

@@ -33,7 +33,7 @@ De fato, se vai para o astral superior, o tempo corre mais rápido e você passa
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/339-yogi.md\|33.9 – Yôgi]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/49-o-que-e-a-kundalini.md\|49 – O que é a Kundaliní]]
 - [[10 - PERMANENT/Zettels/Yoga/492-os-varios-metodos-para-despertar-a-kundalini.md\|49.2 – Os Vários Métodos para Despertar a Kundaliní]]
 - [[10 - PERMANENT/Zettels/Yoga/51-corpos-do-homem-e-planos-do-universo.md\|51 – Corpos do Homem e Planos do Universo]]

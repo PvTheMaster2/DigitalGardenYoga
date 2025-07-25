@@ -36,7 +36,7 @@ updated: 2025-04-18T03:41
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/3314-exercicios-de-dhyna-meditacao.md\|33.14 – Exercícios de *dhyāna (meditação)*]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/44-chakras.md\|44 – Chakras]]
 - [[10 - PERMANENT/Zettels/Yoga/446-como-saber-qual-e-o-sentido-horario.md\|44.6 – Como Saber Qual é o Sentido Horário]]
 - [[10 - PERMANENT/Zettels/Yoga/49-o-que-e-a-kundalini.md\|49 – O que é a Kundaliní]]

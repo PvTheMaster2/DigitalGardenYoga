@@ -42,7 +42,7 @@ Juan Manuel Fangio
 - [[10 - PERMANENT/Zettels/Yoga/32-reprogramacao-emocional.md\|32 – Reprogramação Emocional]]
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/59-karma.md\|59 – Karma]]
 - [[10 - PERMANENT/Zettels/Yoga/9-yoga-pre-classico-tronco-antigo-pre-classico.md\|9 – Yôga Pré-Clássico, tronco antigo, Pré-Clássico]]
 - [[10 - PERMANENT/Zettels/Yoga/91-dakshinacharatantrika-nirishwarasamkhya-yoga.md\|9.1 – Dakshinacharatántrika-Niríshwarasámkhya Yôga]]

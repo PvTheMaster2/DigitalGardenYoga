@@ -170,5 +170,5 @@ Mantém-no sempre entusiasmado.
 - [[10 - PERMANENT/Zettels/Yoga/3313-exercicios-de-dhra-concentracao.md\|33.13 – Exercícios de *dhāraṇā (concentração)*]]
 - [[10 - PERMANENT/Zettels/Yoga/338-yogin.md\|33.8 – Yôgin]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/41-meditacao-da-noite.md\|41 – Meditação da Noite]]

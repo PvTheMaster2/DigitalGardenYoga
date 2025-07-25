@@ -65,7 +65,7 @@ Não apenas o Yôga Clássico, mas qualquer ramo de linha brahmácharya, reconhe
 - [[10 - PERMANENT/Zettels/Yoga/26-asana.md\|26 – Ásana]]
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/681-elaborado-por-derose-inspirado-no-yoga-sutra-de-patanjali.md\|68.1 – Elaborado por DeRose, inspirado no Yôga Sútra de Pátañjali]]
 - [[10 - PERMANENT/Zettels/Yoga/6810-ix-swadhyya.md\|68.10 – IX. Swádhyāya]]
 - [[10 - PERMANENT/Zettels/Yoga/685-iv-brahmacharya.md\|68.5 – IV. Brahmácharya]]

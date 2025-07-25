@@ -39,7 +39,7 @@ DeRose
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/333-os-pes-na-terra-e-a-cabeca-no-ceu.md\|33.3 – Os pés na terra e a cabeça no céu]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/44-chakras.md\|44 – Chakras]]
 - [[10 - PERMANENT/Zettels/Yoga/59-karma.md\|59 – Karma]]
 - [[10 - PERMANENT/Zettels/Yoga/68-codigo-de-etica-do-yoga.md\|68 – Código de Ética do Yôga]]

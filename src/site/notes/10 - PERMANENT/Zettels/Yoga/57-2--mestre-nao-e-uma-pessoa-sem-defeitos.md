@@ -44,7 +44,7 @@ O Mestre verdadeiro tem autoridade para com seus discípulos, no entanto, revere
 - [[10 - PERMANENT/Zettels/Yoga/32-reprogramacao-emocional.md\|32 – Reprogramação Emocional]]
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/57-a-relacao-mestrediscipulo.md\|57 – A Relação Mestre/Discípulo]]
 - [[10 - PERMANENT/Zettels/Yoga/58-outros-conceitos-relacionados.md\|58 – Outros Conceitos Relacionados]]
 - [[10 - PERMANENT/Zettels/Yoga/589-transmissao-do-mah-kripa.md\|58.9 – Transmissão do Mahā Kripá]]

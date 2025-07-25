@@ -507,7 +507,7 @@ Quem faz Yôga não deve comer carnes, fumar, beber, nem usar drogas. Quem, no p
 - [[10 - PERMANENT/Zettels/Yoga/38-advertencia-aos-neofitos.md\|38 – Advertência aos Neófitos]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
 - [[10 - PERMANENT/Zettels/Yoga/391-ady-ashtanga-sadhana.md\|39.1 – Ády Ashtánga Sádhana]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/4-cronologia-historica.md\|4 – Cronologia Histórica]]
 - [[10 - PERMANENT/Zettels/Yoga/40-corrente-macrocosmica.md\|40 – Corrente Macrocósmica]]
 - [[10 - PERMANENT/Zettels/Yoga/401-como-enviar-energia-nos-primeiros-dez-minutos.md\|40.1 – Como Enviar Energia nos Primeiros Dez Minutos]]

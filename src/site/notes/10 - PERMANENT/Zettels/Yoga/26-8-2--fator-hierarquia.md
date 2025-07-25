@@ -46,5 +46,5 @@ Os companheiros tratam os mais antigos e os que detêm graus mais elevados, com 
 - [[10 - PERMANENT/Zettels/Yoga/3314-exercicios-de-dhyna-meditacao.md\|33.14 – Exercícios de *dhyāna (meditação)*]]
 - [[10 - PERMANENT/Zettels/Yoga/336-os-tres-graus-de-meditacao.md\|33.6 – Os três graus de meditação]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/59-karma.md\|59 – Karma]]

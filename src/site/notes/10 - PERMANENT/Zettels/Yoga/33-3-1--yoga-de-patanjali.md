@@ -50,7 +50,7 @@ A técnica da meditação consiste em manter a mente concentrada num só objeto,
 - [[10 - PERMANENT/Zettels/Yoga/339-yogi.md\|33.9 – Yôgi]]
 - [[10 - PERMANENT/Zettels/Yoga/3393-meditacao-dhyna.md\|33.9.3 – Meditação (*dhyāna)*]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/51-corpos-do-homem-e-planos-do-universo.md\|51 – Corpos do Homem e Planos do Universo]]
 - [[10 - PERMANENT/Zettels/Yoga/511-tipos-de-corpos.md\|51.1 – Tipos de Corpos]]
 - [[10 - PERMANENT/Zettels/Yoga/521-os-sete-subplanos.md\|52.1 – Os Sete Subplanos]]

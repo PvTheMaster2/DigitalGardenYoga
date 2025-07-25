@@ -64,5 +64,5 @@ Da próxima vez que executar este exercício de relaxamento, ele será muito mai
 - [[10 - PERMANENT/Zettels/Yoga/3318-modelo-de-locucao-para-o-seu-treinamento.md\|33.18 – Modelo de locução para o seu treinamento]]
 - [[10 - PERMANENT/Zettels/Yoga/338-yogin.md\|33.8 – Yôgin]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/42-adormecer.md\|42 – Adormecer]]

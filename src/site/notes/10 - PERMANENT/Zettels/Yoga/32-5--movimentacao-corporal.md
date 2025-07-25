@@ -1,16 +1,7 @@
 ---
-dg-publish: true
-id: 20250418T020213
-title: 32.5 – Movimentação Corporal
-tags:
-  - source/trato-yoga
-  - type/concept
-zettel-type: literature
-source: Trato de Yôga do Mestre De Rose
-created: 2025-04-18
-parent: Reprogramação Emocional
-updated: 2025-04-21T16:51
+{"dg-publish":true,"permalink":"/10 - PERMANENT/Zettels/Yoga/32-5--movimentacao-corporal/","title":"32.5 – Movimentação Corporal","tags":["source/trato-yoga","type/concept"],"noteIcon":""}
 ---
+
 
 # 32.5 – Movimentação Corporal
 
@@ -41,5 +32,5 @@ Mova a língua e sinta o paladar mais apurado.
 - [[10 - PERMANENT/Zettels/Yoga/328-movimentacao-corporal.md\|32.8 – Movimentação Corporal]]
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/7-tipos-de-yoga.md\|7 – TIPOS DE YÔGA]]

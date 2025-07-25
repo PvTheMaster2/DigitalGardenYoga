@@ -81,7 +81,7 @@ Todas as sugestões que se seguem devem ser bem temperadas com as especiarias j�
 - [[10 - PERMANENT/Zettels/Yoga/26-asana.md\|26 – Ásana]]
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/59-karma.md\|59 – Karma]]
 - [[10 - PERMANENT/Zettels/Yoga/64-evite-o-rotulo-de-vegetariano.md\|64 – EVITE O RÓTULO DE VEGETARIANO]]
 - [[10 - PERMANENT/Zettels/Yoga/65-alguns-principios-da-boa-alimentacao.md\|65 – Alguns Princípios da Boa Alimentação]]

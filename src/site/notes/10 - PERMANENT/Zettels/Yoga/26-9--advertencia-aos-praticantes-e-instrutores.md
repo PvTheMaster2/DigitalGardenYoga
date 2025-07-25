@@ -35,7 +35,7 @@ Mesmo o Hatha, não pode ser classificado de forma tão simplista, pois pertence
 - [[10 - PERMANENT/Zettels/Yoga/32-reprogramacao-emocional.md\|32 – Reprogramação Emocional]]
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/571-qual-e-a-diferenca-entre-instrutor-professor-e-mestre.md\|57.1 – Qual é a Diferença entre Instrutor, Professor e Mestre]]
 - [[10 - PERMANENT/Zettels/Yoga/58-outros-conceitos-relacionados.md\|58 – Outros Conceitos Relacionados]]
 - [[10 - PERMANENT/Zettels/Yoga/7-tipos-de-yoga.md\|7 – TIPOS DE YÔGA]]

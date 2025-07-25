@@ -38,7 +38,7 @@ A meditação, como canal de contato com o inconsciente coletivo, poderia me con
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/36-como-desenvolver-uma-serie.md\|36 – Como Desenvolver uma Série]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/59-karma.md\|59 – Karma]]
 - [[10 - PERMANENT/Zettels/Yoga/7-tipos-de-yoga.md\|7 – TIPOS DE YÔGA]]
 - [[10 - PERMANENT/Zettels/Yoga/71-descricao-de-varias-modalidades-de-yoga.md\|7.1 – Descrição de várias modalidades de Yôga]]

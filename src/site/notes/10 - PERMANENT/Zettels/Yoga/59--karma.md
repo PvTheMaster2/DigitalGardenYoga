@@ -136,7 +136,7 @@ Na verdade, nenhuma dessas desculpas justifica a interrupção, SwáSthya merece
 - [[10 - PERMANENT/Zettels/Yoga/351-a-serie-e-adaptavel-a-cada-praticante.md\|35.1 – A Série é Adaptável a Cada Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/38-advertencia-aos-neofitos.md\|38 – Advertência aos Neófitos]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/4-cronologia-historica.md\|4 – Cronologia Histórica]]
 - [[10 - PERMANENT/Zettels/Yoga/40-corrente-macrocosmica.md\|40 – Corrente Macrocósmica]]
 - [[10 - PERMANENT/Zettels/Yoga/44-chakras.md\|44 – Chakras]]

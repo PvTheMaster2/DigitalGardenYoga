@@ -69,7 +69,7 @@ Outra analogia: kundaliní é considerada a Mãe Divina no Hinduísmo. *Shivāna
 - [[10 - PERMANENT/Zettels/Yoga/3311-hiperconsciencia-samdhi.md\|33.11 – Hiperconsciência (*samādhi)*]]
 - [[10 - PERMANENT/Zettels/Yoga/3321-meditacao-e-parte-do-yoga.md\|33.2.1 – Meditação é parte do Yôga]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/46-siddhis-os-poderes-paranormais.md\|46 – Siddhis, os Poderes Paranormais]]
 - [[10 - PERMANENT/Zettels/Yoga/47-granthis-as-valvulas-de-seguranca.md\|47 – Granthis, as Válvulas de Segurança]]
 - [[10 - PERMANENT/Zettels/Yoga/471-localizacao-dos-granthis.md\|47.1 – Localização dos Granthis]]

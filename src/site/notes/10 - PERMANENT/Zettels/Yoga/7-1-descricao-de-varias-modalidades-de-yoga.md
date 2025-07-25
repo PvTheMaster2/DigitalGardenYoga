@@ -108,7 +108,7 @@ Trata-se de um tipo de Hatha Yôga simplificado, praticado nos Estados Unidos, o
 - [[10 - PERMANENT/Zettels/Yoga/35-apologia-a-serie-prototipo.md\|35 – Apologia à Série Protótipo]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
 - [[10 - PERMANENT/Zettels/Yoga/391-ady-ashtanga-sadhana.md\|39.1 – Ády Ashtánga Sádhana]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/4-cronologia-historica.md\|4 – Cronologia Histórica]]
 - [[10 - PERMANENT/Zettels/Yoga/447-varios-meios-para-desenvolver-os-chakras.md\|44.7 – Vários Meios para Desenvolver os Chakras]]
 - [[10 - PERMANENT/Zettels/Yoga/46-siddhis-os-poderes-paranormais.md\|46 – Siddhis, os Poderes Paranormais]]

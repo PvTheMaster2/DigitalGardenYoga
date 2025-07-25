@@ -190,7 +190,7 @@ Esforce-se sem forçar. Qualquer desconforto, dor, aceleração cardíaca ou tra
 - [[10 - PERMANENT/Zettels/Yoga/361-bisagem-de-cada-tecnica.md\|36.1 – Bisagem de Cada Técnica]]
 - [[10 - PERMANENT/Zettels/Yoga/37-agora-vamos-juntar-tudo-e-praticar.md\|37 – Agora Vamos Juntar Tudo e Praticar?]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/402-como-receber-o-retorno-nos-outros-dez-minutos.md\|40.2 – Como Receber o Retorno nos Outros Dez Minutos]]
 - [[10 - PERMANENT/Zettels/Yoga/41-meditacao-da-noite.md\|41 – Meditação da Noite]]
 - [[10 - PERMANENT/Zettels/Yoga/42-adormecer.md\|42 – Adormecer]]

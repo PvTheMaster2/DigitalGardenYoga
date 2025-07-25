@@ -22,7 +22,7 @@ updated: 2025-04-18T03:41
 
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/5-como-se-processou-a-transformacao.md\|5 – COMO SE PROCESSOU A TRANSFORMAÇÃO]]
 - [[10 - PERMANENT/Zettels/Yoga/65-alguns-principios-da-boa-alimentacao.md\|65 – Alguns Princípios da Boa Alimentação]]
 - [[10 - PERMANENT/Zettels/Yoga/66-sugestoes-de-pratos-sem-carnes-de-qualquer-especie.md\|66 – Sugestões de Pratos sem Carnes de Qualquer Espécie]]

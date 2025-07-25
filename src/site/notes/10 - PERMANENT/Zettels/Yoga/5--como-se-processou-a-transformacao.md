@@ -65,7 +65,7 @@ Colocando lado a lado os verbos acima, poderemos ter uma ideia mais precisa dos 
 - [[10 - PERMANENT/Zettels/Yoga/26-asana.md\|26 – Ásana]]
 - [[10 - PERMANENT/Zettels/Yoga/33-samyama.md\|33 – Samyama]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
 - [[10 - PERMANENT/Zettels/Yoga/4-cronologia-historica.md\|4 – Cronologia Histórica]]
 - [[10 - PERMANENT/Zettels/Yoga/51-tipos-de-yogin.md\|5.1 – Tipos de Yôgin]]
 - [[10 - PERMANENT/Zettels/Yoga/511-a-um-yogin-do-tronco-pre-classico.md\|5.1.1 – a) Um yôgin do tronco Pré-Clássico]]

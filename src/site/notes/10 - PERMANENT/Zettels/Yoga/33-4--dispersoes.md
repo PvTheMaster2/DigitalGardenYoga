@@ -48,4 +48,4 @@ Se o tempo for distorcido para menos, estará ocorrendo auto-hipnose. Se o tempo
 - [[10 - PERMANENT/Zettels/Yoga/3342-segunda-dispersao-auto-hipnose.md\|33.4.2 – Segunda dispersão: auto-hipnose]]
 - [[10 - PERMANENT/Zettels/Yoga/339-yogi.md\|33.9 – Yôgi]]
 - [[10 - PERMANENT/Zettels/Yoga/39-serie-prototipo.md\|39 – Série Protótipo]]
-- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante.md\|39.2 – Recomendações para o Praticante]]
+- [[10 - PERMANENT/Zettels/Yoga/392-recomendacoes-para-o-praticante\|39.2 – Recomendações para o Praticante]]
