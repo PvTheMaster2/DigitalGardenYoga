@@ -6,6 +6,7 @@
 # Anahata Chakra - O Centro do Coração
 
 > *"O Anāhata é o único chakra com capacidade de irradiar luz para todos os lados. Não se trata apenas de amar — trata-se de se tornar amor."* — SwāSthya Yôga
+![Anahata Simbol.jpg](/img/user/00%20-%20INBOX/Anahata/Anahata%20Simbol.jpg)
 
 ## Definição e Etimologia
 
